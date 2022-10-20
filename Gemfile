@@ -45,4 +45,4 @@ group :development do
   gem 'spring'
 end
 
-gem 'nokogiri', '1.10.8'
+gem 'nokogiri', '1.13.9'
